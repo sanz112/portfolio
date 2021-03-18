@@ -147,9 +147,9 @@
             background: #800c4b !important;
             color: #fff !important;
         }
-         .affix ul li a {
+         /* .affix ul li a {
             color: #fff !important;
-        }
+        } */
         .affix ul li a:hover {
             color: plum !important;
         }
