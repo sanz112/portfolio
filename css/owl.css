@@ -1,0 +1,43 @@
+
+/*custom arrow*/
+.custom-arrow.owl-theme .owl-nav button{
+    width: 30px;
+    background: transparent;
+    border: 1px dashed #ebebeb;
+    line-height: 26px;
+}
+
+.custom-arrow.owl-theme .owl-nav button:hover{
+    background: #ff1b98;
+    border-color: #ff1b98;
+}
+.custom-arrow.owl-theme .owl-nav button:hover span{
+    color: #ffffff;
+}
+.custom-arrow.owl-theme .owl-nav button span{
+    font-size: 45px;
+    color: #ff1b98;
+}
+.custom-arrow-bottom-center.owl-theme .owl-nav{
+    width: 100%;
+    margin: auto;
+    margin-top: 8px;
+}
+.custom-arrow-left-right.owl-theme .owl-nav{
+    width: 100%;
+    top: 25%;
+}
+.custom-arrow-left-right.owl-theme .owl-nav button.owl-prev, .custom-arrow-left-right.owl-theme .owl-nav button.owl-next{
+    position: absolute;
+}
+.custom-arrow-left-right.owl-theme .owl-nav button.owl-prev{
+    left: -35px;
+    font-size: 45px;
+}
+.ratting-color {
+    color: #ff7c3f;
+}
+.custom-arrow-left-right.owl-theme .owl-nav button.owl-next{
+    right: -35px;
+    font-size: 45px;
+}
