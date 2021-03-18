@@ -1130,7 +1130,7 @@ ul li i#list-item {
     });
         $(document).ready(function() {
         $('.chevron').on('click', function(e) {
-            alert('hello');
+            // alert('hello');
             $('html, body').animate({
                 scrollTop: $(window).height()
             }, 1300);
