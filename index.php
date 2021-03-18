@@ -817,7 +817,7 @@ ul li i#list-item {
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
-                                    </ul>
+                                    </ul><br>
                                     <span class="font-weight-bold">5.0 <small class="font-weight-lighter">Out of 5</small></span>
                                 </div>
                             </div>
@@ -833,7 +833,7 @@ ul li i#list-item {
                                 <div id="list-item" class="d-flex align-items-center">
                     <img style="height: 50px !important; width: 50px !important;" src="./img/swiftlogo.png" alt="client" width="50" class="img-fluid rounded-circle shadow-sm mr-3"/>
                     <div class="client-info">
-                        <h5 class="mb-0">Mr. Bahir</h5>
+                        <h5 class="mb-0">Mr. Bashir</h5>
                                         <small class="mb-0" style="font-size: 10px;">SwiftGeek</small>
                                     </div>
                                 </div>
@@ -844,7 +844,7 @@ ul li i#list-item {
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
-                                    </ul>
+                                    </ul><br>
                                     <span class="font-weight-bold">5.0 <small class="font-weight-lighter">Out of 5</small></span>
                                 </div>
                             </div>
@@ -872,7 +872,7 @@ ul li i#list-item {
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
-                                    </ul>
+                                    </ul><br>
                                     <span class="font-weight-bold">5.0 <small class="font-weight-lighter">Out of 5</small></span>
                                 </div>
                             </div>
@@ -899,7 +899,7 @@ ul li i#list-item {
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
-                                    </ul>
+                                    </ul><br>
                                     <span class="font-weight-bold">5.0 <small class="font-weight-lighter">Out of 5</small></span>
                                 </div>
                             </div>
@@ -913,7 +913,7 @@ ul li i#list-item {
                            </blockquote>
                             <div class="client-img d-flex align-items-center justify-content-between pt-4">
                                 <div id="list-item" class="d-flex align-items-center">
-                                    <img style="height: 50px !important; width: 50px !important;" src="static/styling/img/a4.png" alt="client" width="50" class="img-fluid rounded-circle shadow-sm mr-3"/>
+                                    <img style="height: 50px !important; width: 50px !important;" src="./img/profile.png" alt="client" width="50" class="img-fluid rounded-circle shadow-sm mr-3"/>
                                     <div class="client-info">
                                         <h5 class="mb-0">Miss Cole Kenny</h5>
                                         <small class="mb-0" style="font-size: 10px;">Business Lady</small>
@@ -926,7 +926,7 @@ ul li i#list-item {
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
                                         <li class="list-inline-item"><span class="fas fa-star ratting-color"></span></li>
-                                    </ul>
+                                    </ul><br>
                                     <span class="font-weight-bold">5.0 <small class="font-weight-lighter">Out of 5</small></span>
                                 </div>
                             </div>
