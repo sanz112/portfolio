@@ -25,6 +25,7 @@
       ========================================================================== */
    
    html,body{ 
+     overflow: auto;
        width:100%;
        min-height:100%;
        box-sizing: border-box;
@@ -96,6 +97,7 @@
   }
   
     body {
+      overflow-x: hidden;
         position: relative; 
         /* background: url('../img/bg.jpg'); */
         /* background: chartreuse; */
