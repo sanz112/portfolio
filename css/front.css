@@ -244,7 +244,7 @@
       -o-background-size: cover;
   }
   .gradient-overly-right-color::before{
-      background-image: url('../img/bg.jpg') no-repeat  center center / cover;
+      /* background-image: url('../img/bg.jpg') no-repeat  center center / cover; */
       background: -webkit-gradient(linear, left top, right top, color-stop(0, rgba(170, 15, 100, 0.8)), to(transparent));
       background: linear-gradient(to right,  rgba(170, 15, 100, 0.8) 30%, rgba(255, 9, 144, 0.23) 100%);
   
